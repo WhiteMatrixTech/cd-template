@@ -8,6 +8,6 @@ require (
 	github.com/cdk8s-team/cdk8s-core-go/cdk8s v1.1.17
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/lwnmengjing/core-go v0.0.0-20210901063543-31becf58670e
-	golang.org/x/sys v0.0.0-20210823070655-63515b42dcdf // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 )
